@@ -5,5 +5,13 @@
 </div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/dheeraj-patidar-a35643332">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=121212" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/dheerajpatidar2360">
+    <img src="https://img.shields.io/badge/GitHub-daksh--stack-181717?style=for-the-badge&logo=github&logoColor=white&color=121212" alt="GitHub" />
+  </a>
+</div>
+<div align="center">
   <p>Made with ❤️ by Dheeraj Patidar</p>
 </div>
